@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514918273803",
+    "project_id": "myfirebasecloudmessaging-203d8",
+    "storage_bucket": "myfirebasecloudmessaging-203d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514918273803:android:08287c593b057dc153480e",
+        "android_client_info": {
+          "package_name": "com.dicoding.naufal.myfirebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514918273803-j8fgs3umjccmajigcfgvoq5f0irkadcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8UKcEonVzYEBzvMUA3bihtggTo3vfZds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514918273803-j8fgs3umjccmajigcfgvoq5f0irkadcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
